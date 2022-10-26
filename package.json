@@ -1,0 +1,13 @@
+{
+  "name": "@vennet/root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pnpm -r run start",
+    "all:update": "pnpm -r update -i -L"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
